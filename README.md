@@ -1,7 +1,8 @@
 # shop
 shop 模板<br>
 use replit<br>
-https://replit.com/@9688Girl/YTalan-shop?v=1
+https://replit.com/@9688Girl/YTalan-shop?v=1 <br>
+website :  https://ytalan-shop.9688girl.repl.co/ <br>
 
 
 <img src="https://cdn.discordapp.com/attachments/922796019417235456/929748207607615538/-.gif" class="CENy8b" role="gif"> <br>
